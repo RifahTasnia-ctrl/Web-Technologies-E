@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Donar Information Form</title>
+ </head>
+ <body>
+ <!--Heading-->
+ <h1>Donar Information Form</h1>
+ <hr>
+ <br>
+ <!--Form Create-->
+ <div>
+ <label>First Name:</label>
+ <input type="text" name="fName">
+ </div>
+ <br>
+ <div>
+ <label>Last Name:</label>
+ <input type="text" name="lName">
+ </div> 
+ <br>
+ <div>
+ <label>Company:</label>
+ <select name="company">
+ <option value="Company">Company</option>
+ </select>
+ </div>
+ <br>
+ <div>
+ <label>Address 1:</label>
+ <input type="text" name="add1">
+</div>
+<br>
+<div>
+ <label>Address 2:</label>
+ <input type="text" name="add2">
+</div>
+<br>
+<div>
+ <label>City:</label></option>
+ <select name="city">
+    <option value="City">City</option>
+    </select>
+
+ </div>
+ <br>
+ <div>
+ <label>State:</label></option>
+ <select name="State">
+    <option value="State">State</>
+    </select>
+
+ </div>
+ <br>
+ <div>
+ <lable>Zip code:</lable></option>
+ <select name="Zip code">
+    <option value="Zip code">Zip code</>
+    </select>
+</div>
+<br>
+
+<div>
+   <label>Phone no</label>
+ <input type="text" name="phone">
+ </div>
+ <br>
+ <div>
+    <lable>Fax</lable>
+    <input type="text" name="fax">
+ </div>
+ <br>
+ <div>
+ <label>Email</label>
+ <input type="text" name="email">
+ </div>
+ <br>
+
+<!--Heading-->
+<h1>Honorarium and Memorial Donation Information</h1>
+<hr>
+ <br>
+ <!--Form Create-->
+ <div>
+
+    <label>I would like to make this donation:</label>
+      <input type="radio" value="1">
+      <label>To Honor</label>
+      <input type="radio" value="2">
+      <label>in Memory of</label> 
+ </div>
+ <br>
+ <div>
+ <label>First Name:</label>
+ <input type="text" name="fName">
+ </div>
+ <br>
+ <div>
+ <label>Last Name:</label>
+ <input type="text" name="lName">
+ </div>
+</body>
+</html>
