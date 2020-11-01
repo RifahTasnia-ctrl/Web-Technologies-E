@@ -1,0 +1,110 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Assignment</title>
+
+  </head>
+
+  <body style="text-align: center; border: 2px solid black;   padding-left: 25%; padding-right: 25%; padding-bottom:4%; padding-top: 4%;">
+  
+  
+    <h1>Welcome</h1>
+
+<h3>PLEASE FILL UP THE FOLLOWING THINGS :</h3>
+<p></p>
+
+<form class="nyc"  method="get">
+
+  <div class="name" style="border: 2px solid black; padding: 2%; margin-left: 70px; margin-right: 70px;">
+  <label for="nm">NAME</label>
+  <p></p>
+  <input type="text" name="" placeholder="Full Name Please" required><br>
+  <p></p>
+  <input type="submit" name="" value="SUBMIT">
+  </div>
+
+  <p></p>
+
+  <div class="mail" style="border: 2px solid black; padding: 5%; margin-left: 70px; margin-right: 70px;">
+  <label for="mail">EMAIL</label>
+  <p></p>
+  <input type="text" name="" placeholder="Email Please" required><br>
+  <p></p>
+  <input type="submit" name="" value="SUBMIT">
+  <p></p>
+
+  </div>
+
+  <p></p>
+
+  <div class="db" style="border: 2px solid black; padding: 5%; margin-left: 70px; margin-right: 70px;">
+  <label for="db">DATE OF BIRTH</label>
+  <p></p>
+  <input type="text" name="" placeholder="Write in detail" required><br>
+  <p></p>
+  <input type="submit" name="submit" value="submit">
+  <p></p>
+
+  </div>
+
+  <p></p>
+
+  <div class="gndr" style="border: 2px solid black; padding: 5%; margin-left: 70px; margin-right: 70px;">
+  <label for="gndr">GENDER</label>
+  <p></p>
+  <input type="radio" name="x" value="Male">
+  <label for="m">Male</label>
+  <input type="radio" name="x" value="Female">
+  <label for="f">Female</label>
+  <input type="radio" name="x" value="Other">
+  <label for="o">Other</label><br>
+  <p></p>
+  <input type="submit" name="" value="SUBMIT">
+  </div>
+
+  <p></p>
+
+  <div class="degree" style="border: 2px solid black; padding: 5%; margin-left: 70px; margin-right: 70px;">
+    <label for="dgre">DEGREE</label>
+    <p></p>
+    <input type="radio" name="y" value="ssc">
+    <label for="m">SCC</label>
+    <input type="radio" name="y" value="hsc">
+    <label for="f">HSC</label>
+    <input type="radio" name="y" value="bsc">
+    <label for="o">BSc</label>
+    <input type="radio" name="y" value="msc">
+    <label for="o">MSC</label><br>
+    <p></p>
+    <input type="submit" name="" value="SUBMIT">
+
+  </div>
+
+  <p></p>
+
+  <div class="bg" style="border: 2px solid black; padding: 5%; margin-left: 70px; margin-right: 70px;">
+  <label for="bg">BLOOD GROUP</label><br>
+  <p></p>
+  <select class="bg" >
+    <option value="ap">A+</option>
+    <option value="an">A-</option>
+    <option value="bp">B+</option>
+    <option value="bn">B-</option>
+    <option value="abp">AB+</option>
+    <option value="abn">AB-</option>
+    <option value="op">O+</option>
+    <option value="on">O-</option>
+    
+  </select><br>
+  <p></p>
+  <input type="submit" name="" value="SUBMIT">
+  </div>
+ 
+</form>
+
+
+
+
+
+  </body>
+</html>
