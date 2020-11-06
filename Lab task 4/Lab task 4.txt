@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>LAB----4</title>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+  </head>
+  <body style="  padding-left: 27%; padding-right: 27%; background: whitesmoke;">
+
+<form class="yoko" method="get" style="text-align: center; border: 4px solid black; background: #c8d4c7;">
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+  <div class="container">
+        <a class="navbar-brand" href="https://aiub.com">X company</a>
+
+       <ul class="nav navbar-nav navbar-righ">
+             <li class="nav-item active">
+                <a class="nav-link" href="#">Home</a>
+             </li>
+             <li class="nav-item active">
+                <a class="nav-link" href="#">Login</a>
+             </li>
+             <li class="nav-item active">
+                <a class="nav-link" href="#">Registration</a>
+            </li>
+     </ul>
+  </div>
+      </nav>
+
+  <p></p>
+  <h1 style="font-weight: 800; padding-top: 8%;padding-bottom: 10%;">WELCOME TO X-COMPANY</h1>
+</form>
+
+<p></p>
+
+<form class="sono" method="get" style="text-align: center; border: 4px solid black; background: #c8d4c7;">
+
+
+          <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+    <div class="container">
+          <a class="navbar-brand" href="https://aiub.com">X company</a>
+
+         <ul class="nav navbar-nav navbar-righ">
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Home</a>
+               </li>
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Login</a>
+               </li>
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Registration</a>
+              </li>
+       </ul>
+    </div>
+        </nav>
+<p></p>
+        <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="Name" required><br>
+        <p></p>
+        <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="Email" required><br>
+        <p></p>
+        <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="User Name" required><br>
+        <p></p>
+        <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="password" name="" placeholder="Password" required><br>
+        <p></p>
+        <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="Confirm Password" required>
+        <p></p>
+        <input style="width: 70px;" type="radio" name="x" value="Male">
+        <label for="m">Male</label>
+        <input style="width: 70px;" type="radio" name="x" value="Female">
+        <label for="f">Female</label>
+        <input style="width: 70px;" type="radio" name="x" value="Other">
+        <label for="o">Other</label><br>
+        <p></p>
+        <table>
+               <tr>
+                   <td>
+                       <label for="day">DAY</label><br>
+                       <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 200px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="" required>
+                   </td>
+                   <td>
+                       <label for="month">MONTH</label><br>
+                       <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 210px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="" required>
+                   </td>
+                   <td>
+                      <label for="year">YEAR</label><br>
+                      <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 197px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="" required>
+                 </td>
+              </tr>
+      </table>
+
+</form>
+<p></p>
+<form class="moko" method="get" style="text-align: center; border: 4px solid black; background: #c8d4c7;">
+
+
+          <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+    <div class="container">
+          <a class="navbar-brand" href="https://aiub.com">X company</a>
+
+         <ul class="nav navbar-nav navbar-righ">
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Home</a>
+               </li>
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Login</a>
+               </li>
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Registration</a>
+              </li>
+       </ul>
+    </div>
+        </nav>
+    <p></p>
+    <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="User Name" required><br>
+    <p></p>
+    <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="password" name="" placeholder="Password"><br>
+    <input id="cb" type="checkbox" name="" value="">
+    <label for="">Remember Me!</label><br>
+    <p></p>
+    <input  style="font-size: 20px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 100px;color: white; border-radius: 24px; transition: 0.25s; background: red;" type="submit" name="" value="Submit">
+    <a href="#">Forget Password?</a>
+
+</form>
+<p></p>
+<form class="susi" method="get" style="border: 4px solid black; background: #c8d4c7;">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+<div class="container">
+    <a class="navbar-brand" href="https://aiub.com">X company</a>
+
+   <ul class="nav navbar-nav navbar-righ">
+         <li class="nav-item active">
+            <a class="nav-link" href="#">Logged in as Esha</a>
+         </li>
+         <li class="nav-item active">
+            <a class="nav-link" href="#">LogOut</a>
+         </li>
+ </ul>
+</div>
+  </nav>
+
+<table>
+<tr>
+<td>
+   <h3>__Account__</h3>
+   <ul>
+   <li><a href="#">Dashboard</a></li>
+   <li><a href="#">View Profile</a></li>
+   <li><a href="#">Edit Profile</a></li>
+   <li><a href="#">Change Profile Picture</a></li>
+   <li><a href="#">Change Password</a></li>
+   <li><a href="#">LogOut</a></li>
+   </ul>
+</td>
+<td>
+   <div class="container" style="text-align: center; border: 4px solid black; background: #c8d4c7; padding-top: 4px;" >
+
+      <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 400px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" value="EDIT PROFILE">
+      <p></p>
+      <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width:250px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" value="Name: Rifah Tasnia">
+      <p></p>
+      <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 250px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" value="Email: rt@gmail.com">
+      <p></p>
+      <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 250px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" value="Gender: Female">
+      <p></p>
+      <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" value="Date of birth: 25/08/1997">
+      <p></p>
+      <input style="font-size: 20px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 100px;color: white; border-radius: 24px; transition: 0.25s; background: red;"  type="submit" name="" value="Confirm">
+      </div>
+</td>      
+</tr>
+</table>
+</form>
+<p></p>
+<form class="suki" method="get" style="text-align: center; border: 4px solid black; background: #c8d4c7;">
+
+
+          <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+    <div class="container">
+          <a class="navbar-brand" href="https://aiub.com">X company</a>
+
+         <ul class="nav navbar-nav navbar-righ">
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Home</a>
+               </li>
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Login</a>
+               </li>
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Registration</a>
+              </li>
+       </ul>
+    </div>
+        </nav>
+    <p></p>
+<h2>FORGOT PASSWORD</h2>
+<p></p>
+<input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="Enter Your Email" required><br>
+<p></p>
+<input  style="font-size: 20px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 100px;color: white; border-radius: 24px; transition: 0.25s; background: red;" type="submit" name="" value="Submit">
+</form>
+<p></p>
+<form class="nuka" method="get" style="text-align: center; border: 4px solid black; background: #c8d4c7;">
+
+
+          <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+    <div class="container">
+          <a class="navbar-brand" href="https://aiub.com">X company</a>
+
+         <ul class="nav navbar-nav navbar-righ">
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Home</a>
+               </li>
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Login</a>
+               </li>
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">Registration</a>
+              </li>
+       </ul>
+    </div>
+        </nav>
+    <p></p>
+<h2>Change Password</h2>
+<p></p>
+   <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: white; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="Current Password" required><br>
+   <p></p>
+   <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: green; border-radius: 24px; transition: 0.25s; background: #191919;" type="password" name="" placeholder="New Password" required><br>
+   <p></p>
+   <input style="font-size: 23px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 300px;color: red; border-radius: 24px; transition: 0.25s; background: #191919;" type="text" name="" placeholder="Retype New Password"><br>
+   <p></p>
+   <input style="font-size: 20px; text-align: center; border: 2px solid #3498db; padding: 14px 10px; width: 100px;color: white; border-radius: 24px; transition: 0.25s; background: red;" type="submit" name="" value="Submit">
+
+</form>
+
+</body>
+</html>
